@@ -1,4 +1,5 @@
-# Two jpg files attached (Spanish):
+#A simple main.py with some examples of data types and operators.
 
-#### Data types
-#### operators in python 
+### Two jpg files attached (Spanish):
+#### -Data types
+#### -operators in python 
