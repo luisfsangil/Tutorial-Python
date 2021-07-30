@@ -1,0 +1,10 @@
+The tuples can't be modified after there creation
+    - no append, extend, remove, index
+    - its possible to extract a portion to a new tuple
+    - its possible to verifie if an element is in the tuple
+
+Vantages:
+    - faster than lists
+    - less space (more optimization)
+    - tuples can format strings
+    - tuples can be used as keys in a dictionary
