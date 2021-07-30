@@ -1,10 +1,9 @@
 def approved(_n):
-    if _n>=5:
-        return True
+    n=int(_n)
+    if n>=5:
+        return "You pass the examen"
     else:
-        return False
+        return "You have to repeat another year"
 
-print(approved(7))
-print(approved(3))
-print(approved(4.9))
-print(approved(5))
+note=input("What's your note? ")
+print(approved(note))
