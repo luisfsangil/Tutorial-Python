@@ -1,2 +1,1 @@
-#print a "Hello World" message
-print("Hello world")
+print("Hello World")
